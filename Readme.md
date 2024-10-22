@@ -12,6 +12,7 @@ REQUIRED:
 
 Step 1:
 - Install 'ptpd' package on machines you need to synchronize
+- YOU MIGHT ALSO NEED OTHER PACKAGES FROM THIS LIST(not sure): ptp4l linuxptp
 - ALL COMMANDS BELLOW YOU NEED RUN AS A ROOT OR USING SUDO
 
 Step 2:
@@ -31,6 +32,6 @@ It's done!
 
 My sources:
 
-1)https://www.kaitotek.com/resources/documentation/probe/install/debian-ubuntu/clock-synchronization-linux
-2)https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/7/html/system_administrators_guide/ch-configuring_ptp_using_ptp4l#sec-Specifying_a_Configuration_File
+- https://www.kaitotek.com/resources/documentation/probe/install/debian-ubuntu/clock-synchronization-linux
+- https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/7/html/system_administrators_guide/ch-configuring_ptp_using_ptp4l#sec-Specifying_a_Configuration_File
 
