@@ -30,6 +30,7 @@ Step 5:
 It's done!
 
 My sources:
+
 1)https://www.kaitotek.com/resources/documentation/probe/install/debian-ubuntu/clock-synchronization-linux
 2)https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/7/html/system_administrators_guide/ch-configuring_ptp_using_ptp4l#sec-Specifying_a_Configuration_File
 
